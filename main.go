@@ -1,3 +1,9 @@
+/*
+Copyright 2017 Pablo RUTH
+Copyright 2024 go-init Contributors
+
+SPDX-License-Identifier: MIT
+*/
 package main
 
 import (

@@ -1,7 +1,6 @@
 # go-init
 
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-[![Build Status](https://travis-ci.org/pablo-ruth/go-init.svg?branch=master)](https://travis-ci.org/pablo-ruth/go-init)
+**This is a hard fork of the original [go-init](https://github.com/pablo-ruth/go-init) intended to support future maintenance.**
 
 **go-init** is a minimal init system with simple *lifecycle management* heavily inspired by [dumb-init](https://github.com/Yelp/dumb-init).
 
